@@ -12,7 +12,7 @@ As a starting point the interface should list all the commits. How the user inte
 commits to see the data about each of them is for you to decide.
 
 For each commit the following data should be accessible:
-• Committers Name
+- Committers Name
 • Committers Email
 • Committers Avatar
 • Commit Date
