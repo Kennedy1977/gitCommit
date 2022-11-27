@@ -14,7 +14,7 @@ export const Header = styled.section`
   padding: 0 2rem;
   border-bottom: 0.5rem solid #fff;
   top: 0;
-  z-index: 1;
+  z-index: 10;
 `;
 
 export const Commit = styled.section`
