@@ -13,11 +13,11 @@ commits to see the data about each of them is for you to decide.
 
 For each commit the following data should be accessible:
 - Committers Name
-• Committers Email
-• Committers Avatar
-• Commit Date
-• Message
-• Commit URL
+- Committers Email
+- Committers Avatar
+- Commit Date
+- Message
+- Commit URL
 
 Feel free to include any other data – an example may be a link to the committers GitHub profile.
 Once completed please share a link to the code on a public repo (github etc).
