@@ -4,7 +4,7 @@ export const headings = [
     mw: 21,
   },
   { heading: 'Email' },
-  { heading: 'Link' },
+  { heading: 'Commit URL' },
   { heading: 'Message', mw: 10, align: 'center' },
   { heading: 'Date' },
 ];

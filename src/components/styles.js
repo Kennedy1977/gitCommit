@@ -11,7 +11,7 @@ export const Header = styled.section`
   position: sticky;
   flex-flow: row no-wrap;
   background-color: #333;
-  padding: 2rem;
+  padding: 0 2rem;
   border-bottom: 0.5rem solid #fff;
   top: 0;
   z-index: 1;
