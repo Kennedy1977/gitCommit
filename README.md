@@ -23,3 +23,13 @@ Feel free to include any other data – an example may be a link to the committe
 Once completed please share a link to the code on a public repo (github etc).
 
 ![image](https://user-images.githubusercontent.com/57671924/204164555-b7f75441-7e05-444c-b9bc-409e5e247547.png)
+
+Install / Setup:
+
+$ npm install
+
+or $ yarn install
+
+$ yarn start
+
+app runs on http://localhost:1234
